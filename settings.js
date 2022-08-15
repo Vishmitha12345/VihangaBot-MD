@@ -21,12 +21,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
+global.owner = ['94786740778']
+global.premium = ['94786740778']
 global.ownernomer = '94763427338'
 global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
+global.botname = BSL MAX BOT
+global.footer = 'BSL MAX BOT
 global.cap = '*Genarated By Vihanga Md*'
 global.ig = 'https://github.com/vihangabot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
